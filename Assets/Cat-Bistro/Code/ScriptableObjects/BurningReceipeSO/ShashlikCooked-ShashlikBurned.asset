@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b26318bf66ec8e24a9fcc24d70ad1511, type: 3}
+  m_Name: ShashlikCooked-ShashlikBurned
+  m_EditorClassIdentifier: Assembly-CSharp::BurningReceipeSO
+  input: {fileID: 11400000, guid: d913406dca7cf904994c65ba1e9b466d, type: 2}
+  output: {fileID: 11400000, guid: d889eb55961289548817d02fa7d31ad2, type: 2}
+  burningTimerMax: 5
